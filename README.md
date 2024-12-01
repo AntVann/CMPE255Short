@@ -7,7 +7,7 @@ https://arxiv.org/pdf/2408.02752
 https://medium.com/@anthonyvn/exploring-visual-data-mining-through-diffusion-models-a-revolutionary-approach-c0196195ccb4
 
 # Presentation
-https://docs.google.com/presentation/d/1rKfwMV2EdQcwqqICWX0YoeChgbJXz6cotiXelmPuXgI/edit?usp=sharing
+https://www.slideshare.net/secret/tL5Y4kuplDENfh
 
 # Video 
 https://youtu.be/oqkLRK9YCQE
